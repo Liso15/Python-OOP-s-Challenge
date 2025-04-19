@@ -40,6 +40,34 @@ This project is beginner-friendly and demonstrates the use of:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone 
+   git clone https://github.com/Liso15/Python-OOP-s-Challenge.git
 
    ```
+ Run the program:
+   python main.py
+
+Follow the on-screen instructions to interact with your pet.
+## Screenshots
+![Screenshot (4)](https://github.com/user-attachments/assets/e53fe472-e2a8-45b5-88f4-6df156bfe2b2)
+![Screenshot (5)](https://github.com/user-attachments/assets/d5f4f33b-64bb-4d7d-af9c-b1e476c09c28)
+
+## Authors and Contributors
+
+This project was developed as part of the **PLP Academy Group Assignment**. Below are the contributors:
+### Group 568 Members
+
+#### Liso Mlunguza
+
+- **Role**: Lead Developer
+- **Email**: [lisomlunguza8@gmail.com](mailto:lisomlunguza8@gmail.com)
+- **GitHub**: [@Liso15](https://github.com/Liso15)
+## Future Improvements
+
+- **Graphical User Interface (GUI)**: Introduce a visually appealing GUI to improve user interaction and experience.
+- **Additional Pet Actions**: Expand the range of actions, such as grooming your pet or taking it to the vet for checkups.
+- **Scoring System**: Implement a scoring mechanism to track and reward users for taking good care of their pet.
+- **Save and Load Feature**: Allow users to save their pet's progress and resume their journey anytime.
+
+Stay tuned for updates as we continue to make the **Pet Simulator** even more engaging and fun!
+
+Thank you for using the Pet Simulator! We hope you enjoy interacting with your virtual pet. 🐾
